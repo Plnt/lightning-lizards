@@ -21,11 +21,23 @@ Lightning talks at SUSE Prague.
 
 ## Format
 
+### Speakers
+
+  - Accepting external speakers / invitations?
+  - Open mic / fixed speaker list anounced before event?
+
+### Date
   - Every last Thursday of month, 17:00-18:00 CET, reminder sent a week + day prior.
-  - Open mic / fixed speakers prior to event?
+
+### Talk
+
   - ~30min - 6 lightning talks per session
   - 1 minute for preparation, 4 minutes talk
   - ~30min - chat & cookies
+
+### Language
+
+   - English preferred, but Czech is cool too, if you're not comfortable w/ your English.
 
 ## Facilities
   
@@ -37,6 +49,5 @@ Lightning talks at SUSE Prague.
 
 ## Publishing
 
-  - Accepting external speakers / invitations?
   - Recording published online (opt out/opt in?).
   - Speaker notes/slides + notes from audience accepted as pulls.
