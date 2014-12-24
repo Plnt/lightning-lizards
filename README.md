@@ -1,6 +1,11 @@
 # Lightning lizards
 
-Lightning talks at SUSE Prague - event organization related notes.
+Lightning talks at SUSE Prague.
+
+# Speakers Jan 22nd 2015 CFP!
+
+
+# Event notes
 
 ## Topics
 
@@ -32,5 +37,6 @@ Lightning talks at SUSE Prague - event organization related notes.
 
 ## Publishing
 
+  - Accepting external speakers / invitations?
   - Recording published online (opt out/opt in?).
   - Speaker notes/slides + notes from audience accepted as pulls.
