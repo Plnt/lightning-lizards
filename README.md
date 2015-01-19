@@ -4,6 +4,7 @@ Lightning talks at SUSE Prague.
 
 # Speakers Jan 22nd 2015 CFP!
 
+ - jreidinger: web server to see and download content of squid cache
 
 # Event notes
 
