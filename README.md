@@ -2,7 +2,7 @@
 
 Lightning talks at SUSE Prague.
 
-# Speakers Jan 22nd 2015 CFP!
+# Speakers Feb 26th 2015 CFP!
 
  - jreidinger: web server to see and download content of squid cache
 
@@ -24,10 +24,11 @@ Lightning talks at SUSE Prague.
 
 ### Speakers
 
-  - Accepting external speakers / invitations?
-  - Open mic / fixed speaker list anounced before event?
+  - Fixed speaker list is anounced before event.
+  - We're accepting external speakers and invitations.
 
 ### Date
+
   - Every last Thursday of month, 17:00-18:00 CET, reminder sent a week + day prior.
 
 ### Talk
@@ -41,7 +42,7 @@ Lightning talks at SUSE Prague.
    - English preferred, but Czech is cool too, if you're not comfortable w/ your English.
 
 ## Facilities
-  
+
 ### Equipment
 ### Recording
 ### Food
