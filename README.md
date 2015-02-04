@@ -44,17 +44,25 @@ Lightning talks at SUSE Prague.
 
 ### Language
 
-   - English preferred, but Czech is cool too, if you're not comfortable w/ your English.
+  - English preferred, but Czech is cool too, if you're not comfortable w/ your English.
 
 ## Facilities
 
+  - Conf room ~ 20 people capacity.
+
 ### Equipment
+
+  - A spare laptop running Linux and connected to the internet is provided (slides can be in PDFs, HTML or LibreOffice)
+ 
 ### Recording
+
+  - Talks will be recorded. If you don't want your recording to be published, please let us know.
+
 ### Food
 
-  - TODO
+  - Cookies!
 
 ## Publishing
 
-  - Recording published online (opt out/opt in?).
+  - Recordings published online.
   - Speaker notes/slides + notes from audience accepted as pulls.
