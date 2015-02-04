@@ -6,6 +6,7 @@ Lightning talks at SUSE Prague.
 
  - jreidinger: web server to see and download content of squid cache
  - littleli: to achieve hollywood principle with mobile apps and publicly available data
+ - jkrupa: demo of VoCore cheap and tiny open hardware computer
 
 # Event notes
 
