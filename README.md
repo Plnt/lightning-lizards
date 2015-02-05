@@ -10,6 +10,7 @@ Lightning talks at SUSE Prague.
 # Speakers Mar 26th 2015
  
  - jreidinger: web server to see and download content of squid cache
+ - bkutil: you are not so smar - a celebration of self-delusion (a book review)
 
 # Event notes
 
