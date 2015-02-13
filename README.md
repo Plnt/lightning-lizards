@@ -6,6 +6,7 @@ Lightning talks at SUSE Prague.
 
  - littleli: to achieve hollywood principle with mobile apps and publicly available data
  - jkrupa: demo of VoCore cheap and tiny open hardware computer
+ - jmatejka: Functional purity of Haskell
 
 # Speakers Mar 26th 2015
 
