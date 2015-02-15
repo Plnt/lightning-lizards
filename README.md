@@ -10,7 +10,7 @@ about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is Feb 26th 2015.
+The next show is Feb 26th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
