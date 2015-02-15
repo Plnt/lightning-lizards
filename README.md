@@ -35,8 +35,8 @@ Want to be a speaker? Great! The range of [topics](#topics) is pretty broad and 
 minute time box](#format) makes this a good opportunity to participate even for newcomers
 - so don't hesitate to submit a proposal. Here are the steps to sign up:
 
-  1. Fork the lightning lizards repository
-  1. Edit the README.md - add your name and topic to the list.
+  1. Fork the [lightning lizards repository](https://github.com/bkutil/lightning-lizards)
+  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md) - add your name and topic to the list.
   1. Run `./markdown README.md > index.html` to update the online page.
   1. Commit the changes and open a pull request against the gh-pages branch.
 
