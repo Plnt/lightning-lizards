@@ -37,10 +37,12 @@ minute time box](#format) makes this a good opportunity to participate even for 
 
   1. Fork the lightning lizards repository
   1. Edit the README.md - add your name and topic to the list.
-  1. Open a pull request against the gh-pages branch.
+  1. Run `./markdown README.md > index.html` to update the online page.
+  1. Commit the changes and open a pull request against the gh-pages branch.
 
-You can use the same process if you have feedback, liked a particular topic, or
-want us to improve something.
+You can use the same channel if you have feedback, liked a particular topic, or
+want us to improve something - feel free to create a GitHub issue or a pull
+request.
 
 We accept external speakers as well, so if you don't work for SUSE, but would
 still like to speak, or if you want to invite someone, feel free to do that!
