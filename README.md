@@ -6,9 +6,10 @@ Lightning talks at SUSE Prague.
 
  - littleli: to achieve hollywood principle with mobile apps and publicly available data
  - jkrupa: demo of VoCore cheap and tiny open hardware computer
+ - jmatejka: Functional purity of Haskell
 
 # Speakers Mar 26th 2015
- 
+
  - jreidinger: web server to see and download content of squid cache
  - bkutil: you are not so smart - a celebration of self-delusion (a book review)
 
@@ -54,7 +55,7 @@ Lightning talks at SUSE Prague.
 ### Equipment
 
   - A spare laptop running Linux and connected to the internet is provided (slides can be in PDFs, HTML or LibreOffice)
- 
+
 ### Recording
 
   - Talks will be recorded. If you don't want your recording to be published, please let us know.
