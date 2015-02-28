@@ -85,7 +85,7 @@ still like to speak, or if you want to invite someone, feel free to do that!
 
   - Hand held microphone.
   - A laptop w/ OpenSUSE linux and connectivity will be provided (LibreOffice, PDFs, HTML presentations).
-    The laptop is connected to a video multiplexer, so it is not (yet) possible
+    The laptop is connected to a video mixer, so it is not (yet) possible
     to bring your own computer.
   - Conf room ~ 20 people capacity.
 
