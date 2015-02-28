@@ -28,7 +28,6 @@ The next show is Feb 26th 2015, 17:00 in the Orange conf room.
  - jreidinger: web server to see and download content of squid cache
  - bkutil: you are not so smart - a celebration of self-delusion (a book review)
 
-
 <h2><a name="contributing">Contributing</a></h2>
 
 Want to be a speaker? Great! The range of [topics](#topics) is pretty broad and a [five
@@ -36,7 +35,9 @@ minute time box](#format) makes this a good opportunity to participate even for 
 - so don't hesitate to submit a proposal. Here are the steps to sign up:
 
   1. Fork the [lightning lizards repository](https://github.com/bkutil/lightning-lizards)
-  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md) - add your name and topic to the list.
+  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md)
+     - add your name and topic to the list. Where you put yourself into the list is imporant,
+    it will be the order of speakers.
   1. Run `./markdown README.md > index.html` to update the online page.
   1. Commit the changes and open a pull request against the gh-pages branch.
 
