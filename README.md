@@ -35,11 +35,14 @@ minute time box](#format) makes this a good opportunity to participate even for 
 - so don't hesitate to submit a proposal. Here are the steps to sign up:
 
   1. Fork the [lightning lizards repository](https://github.com/bkutil/lightning-lizards)
-  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md)
-     - add your name and topic to the list. Where you put yourself into the list is imporant,
-    it will be the order of speakers.
+  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md) -
+     add your name and topic to the list. Where you put yourself into the list is imporant,
+     it will be the order of speakers.
   1. Run `./markdown README.md > index.html` to update the online page.
   1. Commit the changes and open a pull request against the gh-pages branch.
+  1. Take a look at [talk](#talk) and the [stage](#stage)
+     sections. Making yourself familiar with the environment and the setup in advance
+     might make your talk a bit less stressful for you.
 
 You can use the same channel if you have feedback, liked a particular topic, or
 want us to improve something - feel free to create a GitHub issue or a pull
@@ -62,19 +65,30 @@ still like to speak, or if you want to invite someone, feel free to do that!
 
 <h2><a name="format">Format</a></h2>
 
-### Event
-
   - ~30min - 6 lightning talks per session
   - ~30min - chat & cookies
 
-### Talk
+<h2><a name="talk">Talk</a></h2>
 
   - English preferred, but Czech is cool too, if you're not comfortable w/ your English.
-  - 1 minute for preparation, 4 minutes talk
+  - Please send in the slides at least 4 hours in advance, so we can download
+    them before the talks start and check they display OK (hint: more contrast is
+    better).
+  - 1 minute for preparation, 4 minutes talk. This is optimal, but not a hard limit, though.
   - After the presentation, please publish your slides and send us a link, or send a pull request.
-  - Talks will be recorded. If you don't want your recording to be published, please let us know.
+  - Talks will be recorded. If you don't want the recording of your talk to be
+    published, please let us know.
+
+<h2><a name="stage">Stage</a></h2>
 
 ### Equipment
 
-  - A spare laptop w/ Linux and connectivity will be provided (LibreOffice, PDFs, HTML presentations)
+  - Hand held microphone.
+  - A laptop w/ OpenSUSE linux and connectivity will be provided (LibreOffice, PDFs, HTML presentations).
+    The laptop is connected to a video multiplexer, so it is not (yet) possible
+    to bring your own computer.
   - Conf room ~ 20 people capacity.
+
+### Stage map
+
+![Orange conf room stage map](./images/stage_map.png)
