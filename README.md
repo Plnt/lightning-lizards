@@ -38,7 +38,7 @@ minute time box](#format) makes this a good opportunity to participate even for 
   1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md) -
      add your name and topic to the list. Where you put yourself into the list is imporant,
      it will be the order of speakers.
-  1. Run `./markdown README.md > index.html` to update the online page.
+  1. Run `make` to update the online page.
   1. Commit the changes and open a pull request against the gh-pages branch.
   1. Take a look at [talk](#talk) and the [stage](#stage)
      sections. Making yourself familiar with the environment and the setup in advance
