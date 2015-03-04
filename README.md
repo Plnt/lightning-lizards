@@ -14,14 +14,7 @@ The next show is Mar 31th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
-### Feb 26th 2015
-
- - littleli: to achieve hollywood principle with mobile apps and publicly available data
- - jkrupa: demo of VoCore cheap and tiny open hardware computer
- - jmatejka: Functional purity of Haskell
- - you ?
- - ?
- - ?
+For past talks, take a look [here](#past).
 
 ### Mar 31th 2015
 
@@ -93,3 +86,11 @@ still like to speak, or if you want to invite someone, feel free to do that!
 ### Stage map
 
 ![Orange conf room stage map](./images/stage_map.png)
+
+<h2><a name="past">Past talks</a></h2>
+
+### Feb 26th 2015
+
+ - jmatejka: Functional purity of Haskell
+ - jkrupa: demo of VoCore cheap and tiny open hardware computer
+ - littleli: to achieve hollywood principle with mobile apps and publicly available data
