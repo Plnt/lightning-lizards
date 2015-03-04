@@ -5,12 +5,12 @@
 Lightning talks at SUSE Prague.
 
 Hey, SUSE hacker! Come and enjoy awesome lightning talks at our Prague office.
-Every month's last Thursday, 17:00 - 18:00 CET. Want to get notified in advance
+Every month's last Tuesday, 17:00 - 18:00 CET. Want to get notified in advance
 about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is Feb 26th 2015, 17:00 in the Orange conf room.
+The next show is Mar 31th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
@@ -23,7 +23,7 @@ The next show is Feb 26th 2015, 17:00 in the Orange conf room.
  - ?
  - ?
 
-### Mar 26th 2015
+### Mar 31th 2015
 
  - jreidinger: web server to see and download content of squid cache
  - bkutil: you are not so smart - a celebration of self-delusion (a book review)
