@@ -1,22 +1,3 @@
-Ahoj,
-
-další termín lightning talků, tj. 31. března (úterý) 17:00 v Orange, se blíží. Zatím se
-můžete těšit na:
-
-  - a
-
-  - b
-
-Stále je pár míst pro přednášení, takže pokud máte téma, o kterém byste
-chtěli mluvit, přihlašte se. Postup, jak na to, je uvedený tady [1].
-
---
-
-Balázs
-
-[1] http://bkutil.github.io/lightning-lizards/#contributing
-
-
 Hi,
 
 another round of lightning talks at SUSE will take place on Mar 31st at 5pm in
