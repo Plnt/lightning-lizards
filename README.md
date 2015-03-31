@@ -20,7 +20,6 @@ For past talks, take a look [here](#past).
 
  - jreidinger: web server to see and download content of squid cache
  - bkutil: you are not so smart - a celebration of self-delusion (a book review)
- - jmatejka: Type safety in haskell (IO and failures, with real code examples)
  - jreidinger: Exchange program in Provo (including photos)
 
 <h2><a name="contributing">Contributing</a></h2>
