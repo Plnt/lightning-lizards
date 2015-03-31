@@ -18,6 +18,7 @@ For past talks, take a look [here](#past).
 
 ### Mar 31th 2015
 
+ - rneuhauser: haveopt - GNU-style long options in POSIX shells without GNU getopt
  - jreidinger: web server to see and download content of squid cache
  - bkutil: you are not so smart - a celebration of self-delusion (a book review)
  - jreidinger: Exchange program in Provo (including photos)
