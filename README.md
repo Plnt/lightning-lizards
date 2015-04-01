@@ -10,18 +10,15 @@ about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is Mar 31th 2015, 17:00 in the Orange conf room.
+The next show is Apr 28th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
 For past talks, take a look [here](#past).
 
-### Mar 31th 2015
+### Apr 28th 2015
 
- - rneuhauser: haveopt - GNU-style long options in POSIX shells without GNU getopt
- - jreidinger: web server to see and download content of squid cache
- - bkutil: you are not so smart - a celebration of self-delusion (a book review)
- - jreidinger: Exchange program in Provo (including photos)
+  - You !
 
 <h2><a name="contributing">Contributing</a></h2>
 
@@ -89,6 +86,14 @@ still like to speak, or if you want to invite someone, feel free to do that!
 ![Orange conf room stage map](./images/stage_map.png)
 
 <h2><a name="past">Past talks</a></h2>
+
+### Mar 31th 2015
+
+ - rneuhauser: haveopt - GNU-style long options in POSIX shells without GNU getopt
+ - jreidinger: web server to see and download content of squid cache
+ - bkutil: you are not so smart - a celebration of self-delusion (a book review)
+ - jreidinger: Exchange program in Provo (including photos)
+
 
 ### Feb 26th 2015
 
