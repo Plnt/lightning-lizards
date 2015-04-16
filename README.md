@@ -18,7 +18,7 @@ For past talks, take a look [here](#past).
 
 ### Apr 28th 2015
 
-  - You !
+  - jmatejka: Algebraic Data Types in Haskell
 
 <h2><a name="contributing">Contributing</a></h2>
 
