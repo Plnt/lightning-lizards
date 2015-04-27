@@ -10,13 +10,13 @@ about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is Apr 28th 2015, 17:00 in the Orange conf room.
+The next show is May 26th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
 For past talks, take a look [here](#past).
 
-### Apr 28th 2015
+### May 26th 2015
 
   - jmatejka: Algebraic Data Types in Haskell
 
@@ -86,6 +86,10 @@ still like to speak, or if you want to invite someone, feel free to do that!
 ![Orange conf room stage map](./images/stage_map.png)
 
 <h2><a name="past">Past talks</a></h2>
+
+### Apr 28th 2015
+
+ - Skipped due to the upcoming openSUSE conference
 
 ### Mar 31th 2015
 
