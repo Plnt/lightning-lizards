@@ -19,6 +19,7 @@ For past talks, take a look [here](#past).
 ### May 26th 2015
 
   - jmatejka: Algebraic Data Types in Haskell
+  - tchatzimichos: Lightweight password storage and management set of tools
 
 <h2><a name="contributing">Contributing</a></h2>
 
