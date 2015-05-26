@@ -16,7 +16,7 @@ The next show is May 26th 2015, 17:00 in the Orange conf room.
 
 For past talks, take a look [here](#past).
 
-### May 26th 2015
+### June 30th 2015
 
   - jmatejka: User Defined Types in Haskell from Python programmer's
               point of view
@@ -88,6 +88,10 @@ still like to speak, or if you want to invite someone, feel free to do that!
 ![Orange conf room stage map](./images/stage_map.png)
 
 <h2><a name="past">Past talks</a></h2>
+
+### June 26th 2015
+
+ - Skipped tue to missing/broken recording equipment
 
 ### Apr 28th 2015
 
