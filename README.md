@@ -21,6 +21,7 @@ For past talks, take a look [here](#past).
   - jmatejka: User Defined Types in Haskell from Python programmer's
               point of view
   - tchatzimichos: Lightweight password storage and management set of tools
+  - jkrupa: Quick overview of [ESP8266](https://github.com/esp8266/esp8266-wiki/wiki) SoC
 
 <h2><a name="contributing">Contributing</a></h2>
 
