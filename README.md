@@ -22,6 +22,7 @@ For past talks, take a look [here](#past).
               point of view
   - tchatzimichos: Lightweight password storage and management set of tools
   - jkrupa: Quick overview of [ESP8266](https://github.com/esp8266/esp8266-wiki/wiki) SoC
+  - mmarek: Photos of Exchange program trip to Beijing
 
 <h2><a name="contributing">Contributing</a></h2>
 
