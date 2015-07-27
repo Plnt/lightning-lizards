@@ -10,19 +10,13 @@ about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is May 26th 2015, 17:00 in the Orange conf room.
+The next show is July 28th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
+  * You?
+
 For past talks, take a look [here](#past).
-
-### June 30th 2015
-
-  - jmatejka: User Defined Types in Haskell from Python programmer's
-              point of view
-  - tchatzimichos: Lightweight password storage and management set of tools
-  - jkrupa: Quick overview of [ESP8266](https://github.com/esp8266/esp8266-wiki/wiki) SoC
-  - mmarek: Photos of Exchange program trip to Beijing
 
 <h2><a name="contributing">Contributing</a></h2>
 
@@ -91,7 +85,15 @@ still like to speak, or if you want to invite someone, feel free to do that!
 
 <h2><a name="past">Past talks</a></h2>
 
-### June 26th 2015
+### June 30th 2015
+
+  - jmatejka: User Defined Types in Haskell from Python programmer's
+              point of view
+  - tchatzimichos: Lightweight password storage and management set of tools
+  - jkrupa: Quick overview of [ESP8266](https://github.com/esp8266/esp8266-wiki/wiki) SoC
+  - mmarek: Photos of Exchange program trip to Beijing
+
+### May 26th 2015
 
  - Skipped tue to missing/broken recording equipment
 
