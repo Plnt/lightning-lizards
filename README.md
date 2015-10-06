@@ -10,10 +10,11 @@ about the speakers and topics? Send an email to bkutil at SUSE domain.
 
 ## Next
 
-The next show is July 28th 2015, 17:00 in the Orange conf room.
+The next show is October 19th 2015, 17:00 in the Orange conf room.
 
 ## Speakers
 
+  - jmatejka: Inteligentlly Designed Null
   * You?
 
 For past talks, take a look [here](#past).
