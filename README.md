@@ -6,7 +6,7 @@ Lightning talks at SUSE Prague.
 
 Hey, SUSE hacker! Come and enjoy awesome lightning talks at our Prague office.
 Every month's last Tuesday, 17:00 - 18:00 CET. Want to get notified in advance
-about the speakers and topics? Send an email to bkutil at SUSE domain.
+about the speakers and topics? Send an email to jkrupa at SUSE domain.
 
 ## Next
 
@@ -25,8 +25,8 @@ Want to be a speaker? Great! The range of [topics](#topics) is pretty broad and 
 minute time box](#format) makes this a good opportunity to participate even for newcomers
 - so don't hesitate to submit a proposal. Here are the steps to sign up:
 
-  1. Fork the [lightning lizards repository](https://github.com/bkutil/lightning-lizards)
-  1. Edit the [README.md](https://github.com/bkutil/lightning-lizards/blob/gh-pages/README.md) -
+  1. Fork the [lightning lizards repository](https://github.com/Plnt/lightning-lizards)
+  1. Edit the [README.md](https://github.com/Plnt/lightning-lizards/blob/gh-pages/README.md) -
      add your name and topic to the list. Where you put yourself into the list is imporant,
      it will be the order of speakers.
   1. Run `make` to update the online page.
